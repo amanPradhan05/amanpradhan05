@@ -44,13 +44,12 @@
 
 
 <!-- Top Languages Stats -->
-<p><img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanpradhan05&show_icons=true&hide=makefile&locale=en&layout=compact&theme=tokyonight" alt="amanpradhan05" /></p>
-
+<p><img align="left" width="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanpradhan05&show_icons=true&hide=makefile&locale=en&layout=compact&theme=tokyonight" alt="amanpradhan05" /></p>
 
 
 
 <!-- Streak Count  -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanpradhan05&theme=tokyonight&;title_color=ff3068" alt="amanpradhan05" /></p>
+<p><img align="center" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=amanpradhan05&theme=tokyonight&;title_color=ff3068" alt="amanpradhan05" /></p>
 
 
 <!-- Contibution Graph -->
